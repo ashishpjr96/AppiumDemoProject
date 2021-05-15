@@ -27,7 +27,7 @@ public class BaseClass {
 		caps.setCapability(CapabilityType.PLATFORM_NAME,"Android");
 		caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "9");
 		caps.setCapability(MobileCapabilityType.DEVICE_NAME, "samsungTab");
-		caps.setCapability(MobileCapabilityType.UDID,"R52M51AJYMH");
+		caps.setCapability(MobileCapabilityType.UDID,"");
 		caps.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 60);
 //	caps.setCapability(MobileCapabilityType.APP, "");
         caps.setCapability(MobileCapabilityType.BROWSER_NAME, "Chrome");	
